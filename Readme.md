@@ -21,6 +21,3 @@ This example demonstrates how to create a date report parameter with a list of p
 ## More Examples
 
 - [Create a Report Parameter with a List of Predefined Dynamic Values](https://github.com/DevExpress-Examples/Reporting_how-to-assign-multiple-values-to-a-report-parameter-from-a-connected-data-source-t236094)
-
-
-
