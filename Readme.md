@@ -2,13 +2,13 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T355030)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# Create a Report Parameter with a List of Predefined Static Values
+# Reporting for WinForms - Create a Report Parameter with a List of Predefined Static Values
 
 This example demonstrates how to create a date report parameter with a list of predefined static values and use this parameter to filter the report's data.
 
 ![Report Parameter with a List of Predefined Static Values](images/screenshot.png) 
 
-## Files to Look At
+## Files to Review
 
 - [Form1.cs](CS/Form1.cs) ([Form1.vb](VB/Form1.vb))
 
