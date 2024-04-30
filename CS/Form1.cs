@@ -1,7 +1,9 @@
+#region usings
 using DevExpress.XtraReports.Parameters;
 using DevExpress.XtraReports.UI;
 using System.Windows.Forms;
 using System;
+#endregion
 using System.IO;
 using DevExpress.DataAccess.ConnectionParameters;
 using DevExpress.DataAccess.Sql;
@@ -26,6 +28,7 @@ namespace Reporting_Create_Report_Parameter_with_Predefined_Static_Values {
 
         private void button1_Click(object sender, EventArgs e)
         {
+            #region dateParameterWithStaticValuesExample
             // Create a date-time parameter.
             Parameter dateParameter = new Parameter();
             dateParameter.Name = "dateParameter";
@@ -67,6 +70,7 @@ namespace Reporting_Create_Report_Parameter_with_Predefined_Static_Values {
 
             // Use the created parameter to filter the report's data.
             report.FilterString = "GetDate([OrderDate]) >= ?dateParameter";
+            #endregion
             configureDataSource(ref report);
             report.ShowPreview();
         }
