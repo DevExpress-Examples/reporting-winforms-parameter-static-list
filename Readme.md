@@ -16,8 +16,8 @@ This example demonstrates how to create a date report parameter with a list of p
 
 ## Documentation
 
-- [Report Parameters with Predefined Static Values](https://docs.devexpress.com/XtraReports/401661/detailed-guide-to-devexpress-reporting/use-report-parameters/report-parameters-with-predefined-static-values?v=22.1)
-- [Report Parameters with Predefined Dynamic Values](https://docs.devexpress.com/XtraReports/401662/detailed-guide-to-devexpress-reporting/use-report-parameters/report-parameters-with-predefined-dynamic-values?v=22.1)
+- [Report Parameters with Predefined Static Values](https://docs.devexpress.com/XtraReports/401661/detailed-guide-to-devexpress-reporting/use-report-parameters/report-parameters-with-predefined-static-values)
+- [Report Parameters with Predefined Dynamic Values](https://docs.devexpress.com/XtraReports/401662/detailed-guide-to-devexpress-reporting/use-report-parameters/report-parameters-with-predefined-dynamic-values)
 
 ## More Examples
 
@@ -29,3 +29,4 @@ This example demonstrates how to create a date report parameter with a list of p
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
