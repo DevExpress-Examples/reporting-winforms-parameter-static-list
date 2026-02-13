@@ -23,7 +23,7 @@ This example demonstrates how to create a date report parameter with a list of p
 
 - [Create a Report Parameter with a List of Predefined Dynamic Values](https://github.com/DevExpress-Examples/Reporting_how-to-assign-multiple-values-to-a-report-parameter-from-a-connected-data-source-t236094)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-winforms-parameter-static-list&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=reporting-winforms-parameter-static-list&~~~was_helpful=no)
 
